@@ -22,15 +22,6 @@ div, section, ::after, ::before{
   z-index: 1;
 }
 
- /* .part00-stick{
-  width: 600px;
-  height: 433px;
-  margin-top: 0px;
-  margin-left: -300px;
-  left: 50%;
-  z-index: 1;
-  background-image: url("./img/image.jpg");
-}  */
 
 .part001-stick{
   width: 192px;
@@ -1114,4 +1105,12 @@ div, section, ::after, ::before{
   top: 131px;
   transform: rotate(22deg) skew(-7deg);
   z-index: 7;
+}
+
+.video{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 600px;
+  padding-bottom: 70px;
 }
